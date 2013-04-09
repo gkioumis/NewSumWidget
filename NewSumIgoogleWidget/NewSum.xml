@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+  <ModulePrefs title="NewSum" height="500" author="Panagiotis Giotis" author_email="pgiotis@scify.org" author_affiliation="SciFY.org"  category="news" description="Gadget Which makes summarisation to news."/>
+  <Content type="html" view="home">
+    <![CDATA[
+	<iframe src="http://scify.iit.demokritos.gr/NewSumWidget/main.html" width="500" height="500"></iframe> 
+      ]]>
+    </Content>  
+</Module>
+
