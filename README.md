@@ -1,4 +1,4 @@
-[SciFY NPC](www.scify.org)
+[SciFY NPC](http://www.scify.org)
 ========================
 [NewSum](http://www.scify.gr/site/en/our-projects/projects-in-progress/newsum-menu-en) is a cutting edge summarization application developed for getting summaries from various news sources. 
 ------------------------
