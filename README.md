@@ -8,11 +8,7 @@
 
 The Files are split in the current way: 
 
-1. NewSumWebSite
-
-	Is the repo for the web NewSum
-
-2. NewSumWidgets:
+NewSumWidgets:
 
 	- NewSumWindowsWidget
 	- NewSumKDEWidget
